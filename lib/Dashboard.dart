@@ -37,7 +37,7 @@ class dashboardState extends State<dashboardStateful>{
         title: Text(widget.title,
                     style: TextStyle(color: Colors.white)),
       ),
-      body: ,
+      body: Container(),
     );
   }
 }
